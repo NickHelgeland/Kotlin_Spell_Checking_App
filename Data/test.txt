@@ -1,0 +1,9 @@
+Before: This is an exampl sentence to testt the spel checking algoritm. 
+After: This is an example sentence to test the spec checking algorithm 
+
+Before: This is an exampl setnence to testt the spel checking algoritm. 
+After: This is an example sentence to test the spec checking algorithm 
+
+Before: This is an exampl setnence to testt the spel checking algoritm. 
+After: This is an example sentence to test the spec checking algorithm 
+
