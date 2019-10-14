@@ -22,18 +22,19 @@ class InPlaceSpellCorrecter
             val words = line.split(" ")
             for (string in words)
             {
-                manager.addNewWord(Word(string), LearningTree.tree)
-                val word = manager.findWord(string.toLowerCase(), Dictionary.tree)
-                var temp = string
+                val re = Regex("[^A-Za-z ]")
+                var noPuncString = re.replace(string, "")
+                manager.addNewWord(Word(noPuncString), LearningTree.tree)
+                val word = manager.findWord(noPuncString.toLowerCase(), Dictionary.tree)
                 if (word == null)
                 {
-                    temp = controller.getCorrection(string)
+                    noPuncString = controller.getCorrection(string)
                 }
                 else if (!word.data.valid)
                 {
-                    temp = controller.getCorrection(string)
+                    noPuncString = controller.getCorrection(string)
                 }
-                File(output).appendText("${temp} ")
+                File(output).appendText("${noPuncString} ")
                 progress.set(progress.get() + progressOfWords)
             }
         }
