@@ -1,9 +1,10 @@
-Before: This is an exampl sentence to testt the spel checking algoritm. 
-After: This is an example sentence to test the spec checking algorithm 
+As a reviewer a only rarely going to have time and inclination to try to reproduce your results a judging your work based on the argument yours making filtered through my own experience of coarse Part of that argument is that yours a competent researcher and while all give a great deal of leeway for people who done have English as their first language I do expect competent researchers to know how to use a No suggestion available. If you choose not to I may not give you the benefit of the doubt when it comes to competence for the more important areas of your paper 
 
-Before: This is an exampl setnence to testt the spel checking algoritm. 
-After: This is an example sentence to test the spec checking algorithm 
+As a reviewer, I’m only rarely going to have time and inclination to try to reproduce your results. I’m judging your work based on the argument you’re making (filtered through my own experience, of course). Part of that argument is that you’re a competent researcher, and while I’ll give a great deal of leeway for people who don’t have English as their first langauge, I do expect competent researchers to know how to use a spellchecker. If you choose not to, I may not give you the benefit of the doubt when it comes to competence for the more important areas of your paper. 
 
-Before: This is an exampl setnence to testt the spel checking algoritm. 
-After: This is an example sentence to test the spec checking algorithm 
+As a reviewer, I’m only rarely going to hve time and incliation to try to reproduce your results. I’m judging your work based on the arguent you’re makking (filtered through my own experience, of course). Part of that argument is that you’re a competent researcher, and while I’ll give a great deal of leeway for peeople who don’t have English as their first langauge, I do expect competent researchers to know how to use a spellchecker. If you choose not to, I may not give you the benefit of the doubt when it comes to competence for the more important areas of your papper. 
+
+As a reviewer a only rarely going to have time and inflation to try to reproduce your results a judging your work based on the argument yours making filtered through my own experience of coarse Part of that argument is that yours a competent researcher and while all give a great deal of leeway for people who done have English as their first language I do expect competent researchers to know how to use a No suggestion available. If you choose not to I may not give you the benefit of the doubt when it comes to competence for the more important areas of your appear 
+
+As a reviewer a only rarely going to have time and inflation to try to reproduce your results a judging your work based on the argument yours making filtered through my own experience of coarse Part of that argument is that yours a competent researcher and while all give a great deal of leeway for people who done have English as their first language I do expect competent researchers to know how to use a spellchecker. If you choose not to I may not give you the benefit of the doubt when it comes to competence for the more important areas of your appear 
 

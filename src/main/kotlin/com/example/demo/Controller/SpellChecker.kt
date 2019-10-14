@@ -8,7 +8,7 @@ class SpellChecker
 {
     val treeSearcher = TreeGroupSearch()
 
-    val stringAlgorithm = DamerauLevenshteinAlgorithm(1,1,1,2)
+    val stringAlgorithm = DamerauLevenshteinAlgorithm(2,1,2,4)
 
     fun getCorrectWord(word: WordTree): String
     {
@@ -34,6 +34,11 @@ class SpellChecker
         }
 
         treeSearcher.clearMatches()
+
+        if(suggestion.value == "No suggestion available.")
+        {
+            suggestion.value = word.data.value
+        }
 
         return suggestion.value
     }
